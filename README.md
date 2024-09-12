@@ -17,11 +17,8 @@
 
 
  <h4>Languages and Tools::</h4>
-    <a href="https://www.python.org" class="icon-link">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python_logo_2020.svg" alt="Python logo">
-        Python
-    </a>
-    <a href="https://www.mysql.com" class="icon-link">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/MySQL_logo_2013.svg" alt="MySQL logo">
-        SQL
-    </a>
+    <a Python </a>
+    <a SQL </a>
+    <a PowerBI </a>
+   
+    
