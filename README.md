@@ -17,8 +17,8 @@
 
 
  <h4>Languages and Tools::</h4>
-    <a Python </a>
-    <a SQL </a>
-    <a PowerBI </a>
+<p><span class="icon">📚</span>  Python</p>
+<p><span class="icon">📚</span>  PowerBI</p>
+<p><span class="icon">📚</span>  SQL</p>
    
     
