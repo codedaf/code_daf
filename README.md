@@ -2,10 +2,10 @@
 <h3 align="center">I'm Diego Fernandez, a Systems Analyst. I am passionate about contributing to open-source projects and leveraging technology to solve problems.</h3>
 
 <p><span class="icon">📚</span>  Learning about:</p>
-<p><span class="icon">🔭</span> Python Libraries: pandas, numpy, matplotlib, seaborn, plotly, cufflinks,</p>
+<p><span class="icon">🔭</span> Python code....</p>
 <p><span class="icon">🔭</span> Excel: SUM(),AVERAGE(),COUNT(),COUNTA(),MIN(),MAX(),IF(),VLOOKUP(),HLOOKUP()</p>
-<p><span class="icon">🔭</span> SQL: Functions to data Analsys</p>
-<p><span class="icon">🔭</span> PHP: Diferent proyects. </p>
+<p><span class="icon">🔭</span> SQL: Structures, scripts, more...</p>
+<p><span class="icon">🔭</span> PHP: Diferent proyects.... </p>
 
 
 
@@ -18,7 +18,7 @@
 
  <h4>Languages and Tools::</h4>
 <p><span class="icon">📚</span>  Python</p>
-<p><span class="icon">📚</span>  PowerBI</p>
 <p><span class="icon">📚</span>  SQL</p>
+<p><span class="icon">📚</span>  Php</p>
    
     
